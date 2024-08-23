@@ -28,5 +28,3 @@ npm install
 ## GitHub Repository
 You can find the project repository on GitHub: [EpenseTracker_App](https://github.com/JuKe888/ExpenseTracker_App.git)
 
-
-
